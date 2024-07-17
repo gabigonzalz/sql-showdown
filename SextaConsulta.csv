@@ -1,0 +1,351 @@
+"text","DisplayName","Reputation"
+"Thanks for the input all! Just to clarify, the zipping is essential because that's what the artist's fans will download when they ""sign-up"" through the widget. To see the widgets I'm talking about visit noisetrade.com.",Mark,100
+"I should have specified, I'm using a JFrame as the primary and plan on using a JWindow for the secondary.",dustins,100
+"This works, but the field is not part of Customer object which is a drawback since I can not add it to datagrid (or any other databound controls) without writing a lot of code",Michael Feinstein,100
+Server technology for this is using apache 2.2,Curtis,100
+"I'm not getting an error; I'm simply not getting a bundle with the intent that is passed to my BroadcastReceiver's onReceive(Context, Intent) method;  I'm assuming that the intent passed to my BroadcastReceiver is the same intent I create (and populate) in my Activity.  In this case, any argument I want to pass is indeed Serializable.",ivcheto,100
+"On the Centos 5 installation I am working with, there does not appear to be a ""deluser"" installed on the system.  I am currently looking for it in the repositories.  I have started working on a perl script, but it will probably take me an hour or two to get the perl side of my brain spooled back up.",Loren Charnley,100
+"The shortcuts that will be used are to be user customised, not hard coded
+
+They then get set as a global shortcut so they can activate and de-activated using that shortcut without having the application active.  This is working but I wanted to give the user the option to use the windows key as well.",HannesNZ,100
+"I'm actually receiving a packet with 19 bytes in it and assembling two sets of four bytes to make to floating-point numbers.  So received_data[1] to received_data[4] is one float, and received_data[5] to received_data[9] is the other...",sevenboarder,100
+"heh, well that's simple enough. Thank you.",Colin,100
+"Sorry, I don't think I worded my question that well.",Anti-Dentite,100
+"ok I'm bringin the conversation back here so Nakkisormi can delete his answer. IE7 does look fine, IE6 is the stinker.",PeterL,100
+"Hello - thanks for the answer
+
+I have Windows XP SP2. CPU CELERON 2.66. 1.25 Gb memory. Browser - repeat in both IE and FF - event if the borower is cut down. Also I'm not play any video in application.",Vladimir,100
+"Hi Sergiu Damian
+ i understood what you said...but i dont know how to to get data in a bidirectional way...
+can you please tell me with an example?",sona,100
+"I think I might have found a solution. Along with what you guys said about println and socket initialization, I synchronized the SendMsg function and that seems to have fixed it, at least for now. I think part of the problem was that since both threads are launched almost simultaneously, they set up their own sockets - with the first being overwritten by the second, hence causing a faulty count (from only one thread). I don't know if it will hold up when I have more threads accessing it, but then the ExecutorService might come in handy. Thanks again for all your help!",thodinc,100
+"Ok, thanks. 
+
+I still having some doubts, but I'll ask again when I need it. :)",Jesus Jimenez,100
+"Won't speaking of tmp as an array would be like keeping him under confusion for longer. 
+tmp is a pointer to an array, thats the correct definition. The sooner he learns, the better, isn't it?",Elitecoder,100
+"Yes, the zip files will almost always contain more than one mp3 (most of the time they are full albums). The problem with modifying the existing zip file is that none of the files reside on the actual application server. They are all stored in Amazon S3 because of bandwidth costs.",Mark,100
+"I'm not sure how this would be helpful. Fhe cursor position doesn't seem to help with knowing when the main JFrame is being moved does it?
+
+I was hoping it is possible to know when mouseDown is fired on the titlebar and then update jwindow pos. for each mouseDragged thereafter.",dustins,100
+Tried to clarify with Database definition,Michael Feinstein,100
+The server is apache 2.2.  And your suggestion will work with asp.net but wondering if there might be another way with out using asp.net,Curtis,100
+"Ah yes, I misspoke; I'm using the Alarm as an avenue to invoke a particular activity at a particular time, and when the alarm goes off, I create a notification which the user can then drop down whenever convenient and only then invoke the activity, so that I don't disturb whatever they happen to be doing.  Thanks for your answer!",ivcheto,100
+Apparently deluser is Debian specific.,Loren Charnley,100
+"This is already what i'm using to register the hotkey, but to get the shortcut to use from the user i'm using a THotKey component.  but that is the one that doesn't support the win key, not the 'RegisterHotKey' function.  I might just implement the user input a different way.",HannesNZ,100
+"Thanks, so that means if f = 1.0162 it would be int f == 1, so I would just have to scale it,  f*=1000; so int f == 1016 to retain precision?",sevenboarder,100
+Hi Jeff - This works and gets rid of the error message but the file now splits the data from the table (there are 9 columns and around 90 rows as I type) into uneven chunks. One field is 3000 chars and it seems to not like this one at all. If exported as .xls then at least the data is kept in tabular format that can be used.,TheTub,100
+"Thank you for the quick reply, but to clarify (I don't know if it matters), I'm not trying to edit the form field in any way, I only need to clone it. 
+
+Okay, well I do need to edit it later by changing the element id/name, but I don't see that as being a security risk.",Anti-Dentite,100
+"your absolutely right Chris.
+
+I had a height set for the link element which IE6 ignored but other browsers used to crop the borders.
+
+I replaced the height:26 with a margin-bottom:-4 and this had the same effect, but worked in all browsers.
+
+thanks for your help.",PeterL,100
+Thanks a lot for sample. It realy help me. I will vote for your answer as soon as I get 15 reputation,Vladimir,100
+The one where the Value property of the ListItem match the string passed to the SelectedValue property of the ListControl.,Pinpin,100
+"Yes, the ConnectionHandler starts a new thread that keeps checking to see if anything has been received and does whatever it needs to do with it.",thodinc,100
+"Fine, I give up. ImageIO can't work well(at least for me). I just want change the quality of the image to compress it without lose any information and looks as same as possible with the origin photo.
+
+Java failed me, I'm going to use ImageMagic and JNI to do this.
+
+Maybe I was wrong. Anyone from oracle can help?",guitarpoet,100
+"Lol, am I too confusing??",Elitecoder,100
+"yep, zipping to provide the artist's fans with a simple one-click download rather than track-by-track.",Mark,100
+"Thank you much! I couldn't use this feature as is, becouse my survey is special. But it is good as example.",RollingStone,100
+"Note: I need POST example, and not URI - URI has many other limitations such as size and requirement to sanitize string.",Michael Feinstein,100
+"This is exactly what I was looking for- implemented it and for some reason it didn't add the selector on Mac browsers, but it added classes to the PC ones just fine. Thanks!",pixi,100
+"Hmm, adding the PendingIntent.FLAG_UPDATE_CURRENT as a flag when getting the PendingIntent doesn't seem to change anything;  I'm still not getting the extras from the intent in my original Activity to the intent passed to the onReceive",ivcheto,100
+"They most certainly are specifically for controlling layout - the layout of tabular data.  Yes, initially the intent was tabular layout of text or numeric data - but graphical data is data too - the distinction is largely artificial..",Loren Charnley,100
+"Thanks, something like that is what i'll do to get this working.",HannesNZ,100
+"I gave the paper a skim,  I might put that off till later... haha",sevenboarder,100
+Thanks - this explains the error message. I might look into Jeff's solution below to see if I can get the data to sit nicely in a .csv file.,TheTub,100
+"I get incompatible pointer time on the 3rd argument.... I'm not terribly familiar with Obj-C I'm afraid. the docs say it should be a void pointer, thats the same as id i think? in which case i'm back to the same problem as above....",Russel West,100
+"Also, the extra long navbar was fixed by floating the div for the rounded corner to the left.
+
+Case closed",PeterL,100
+"Hello
+
+thanks for the answer. I want make the text alpha changing from 1 to 0 under mask. 
+
+Is this possible?
+
+Thanks
+
+Vladimir",Vladimir,100
+"Yeah it got parsed out, hehe :)",richyz,100
+"All of the nodes are running a Fedora 8.0 core, so unless the owners of the nodes put up a firewall themselves, there shouldn't be any. I'm working with 400 nodes at the moment and the application manages to run on about 320 of them without any problems, but it's doubtful that 80 nodes have set up firewalls when they shouldn't be. I have sent them e-mails to find out if that's the case, but is there any other reason this could be happening, especially since netstat shows an ESTABLISHED status?",thodinc,100
+"@jvanderh: Yes, is the number of months I want to add to the payment date.
+
+@jvanderh: I'll tag it as Liqn and C#
+
+Thanks.",Jesus Jimenez,100
+"Yes, we face such problems a lot when working with barebone hardware, and there is a lot of asm code doing rounds in a lot of my applications which won't work without that special line of code added just to make your whole application work on that platform. 
+And as any future programmer will not know what and where to look for, keep old code at some places, atleast works as a hint, that this code needs specific attention.",Elitecoder,100
+"True, currently I am streaming all the tracks back into memory (using flash) and then zipping them and sending them back. I guess I would have to stream the tracks into server memory every time a new zip file was required. This won't be fun :/",Mark,100
+Thank you for suggestion!,RollingStone,100
+"Thanks for the prompt answer. 
+
+Sorry, maybe I worded that wrong. When I refer to Firebug, I mean to say that I can see the newTag param that is being POSTed and it is sending the string ""[object HTMLDivElement]"" rather than the value of the input field that I want.",Darrell,100
+Silverlight does contain socket support.  When using Silverlight 3 the sockets had a limited port range of 4502-4534.  This range was too limiting for the overall design I was implementing.,Curtis,100
+"I'm calling putExtra() after creating the PendingIntent.  I'm populating all of the extras inside of an OnClickListener, and thus they're may not be ready when the PendingIntent is first created.  Perhaps I would be better off using a ContentProvider",ivcheto,100
+That is possible...,Loren Charnley,100
+So basically just subtract the 1970 from the MsSQL.. which starts @ 0/0/0000 ?,footose,100
+"This will be a regular data load from Oracle 10g to SQL Server 2005.
+I was hoping to do this in a stored procedure, but am open to a DTS package as well. Eventually, I will need to get the data into an XML data type so that I can use XQuery on the resulting XML. Thanks for your help!",NYARROW,100
+- Yes the header already states the content type.,TheTub,100
+this appears to work however.... i can use a case on the typeEncoding to handle the bools and the ints but for the floats I'm still searching for a solution.,Russel West,100
+"Thanks Andy,
+I'd already got it to work as i described above, but it's worth taking a look at what you've said too.",PeterL,100
+Thanks for th sample. But in that sample the mask is putting over image. Then I put mask over test - I have problems. Do you have any sample with text masking?,Vladimir,100
+I didn't know that.  I just assumed C++ supported this because other languages do (the most recent that comes to mind is mirc scripting),richyz,100
+"Thanks for your reply.
+
+The nodes are supposed to have identical hardware configurations and the few I checked only have one Ethernet interface, loopback and a tap interface.",thodinc,100
+"Thanks John.
+
+The PaymentDate is one of the big filters we need to get a small amount of data, so we will use a stored procedure to solve this issue.
+
+Regards.",Jesus Jimenez,100
+"Thanks a ton Nosredna. Being new to StackOverflow, I wasn't paying attention to the preview. Thanks :)",Elitecoder,100
+"The process.py script is being executed at start up... so I don't think that's the problem. It's just that the ""git pull"" is not being executed.",Mark,100
+"Yes, sure, it depends on your tasks.
+But you can add a field that returns the number of elements in private collection.
+You can also create inner class, that will realize access logic.",RollingStone,100
+"But yes, your comment about assigning a variable to the DOM Element property sounds interesting. Even if I don't declare a variable and put the getElementById directly into the function call, i.e.:
+
+doTagXhr('add_tag.php', document.getElementById('page_tag_add_input').value)
+
+I get the same issue... hmm? More pondering needed. Also more coffee.",Darrell,100
+"All right---I've been able to use twiny() and xticks() to manually add tickmarks in the right places. I thought there might be a way to do this automatically, but I guess not. Thanks for the help.",Kyle,100
+You're right!  Populating the intent before wrapping it in a PendingIntent worked.  Thanks for your help! :),ivcheto,100
+"If an example of a particular loop you are optimizing is included in the question, contributors may help find optimizations apart from PLD instructions, and could possibly give specific examples.",Loren Charnley,100
+I tried ordering by RowIndex but it wasn't working. I ll give it another shot.,footose,100
+"This has to run on the SQL-Server side. Unfortunatly we can't install the software to push -- I'd much rather run this on the Oracle side if I had the choice! The database link is set up, but I receive an ""unsupported datatype"" error when I submit an open query.",NYARROW,100
+"I just noticed this comment from Jeff - ""you could replace the ""\t"" in the code with "","" ""
+
+This is very nearly there. The file opens fine! And is arranged with column headers. However, where there is an empty field (say telephone number), it populates with the next available data. Meaning from that point onwards the data is out of line with the column headers. So I guess I need the code to insert something when the data field is empty.",TheTub,100
+"when I try to call [returnedValue className], I get warning no method className found. I then tried using object_getClassName(object_getIvar(self, myIntVar)) (myIntVar is actually allocated in a for loop so it changes) and the loop executes once and then I end up in GDB but there is no error logged. The only value that gets logged is 'nil'... ideas?",Russel West,100
+that looks good! Thanks so much.,PeterL,100
+thanks for answer,Vladimir,100
+"on page load i have saved the original grid values to a session.
+and then on the click of save button, i have read the grid again and saved in another session, after that i compared the new session with old session. if any modification occured,then only that value will get saved in database.",sona,100
+"The exception occurs when the connection is refused at
+Socket sendsock = new Socket(dest, port);
+
+The strange thing is that communication often occurs one-way but not the other and only with a few neighbors (not necessarily all).",thodinc,100
+yeh... I guess I need to stay at the features Moonlight supports to make the apps working cross-platform. I cannot say to client that the app will not work for Linux users ^^,Ferry Meidianto,100
+"I will be able to answer better if the question becomes clearer to me so if someone understands the question better, can they please edit it?",Elitecoder,100
+"BTW, I did the above suggestions (# chkconfig: 345 99 02) and still no luck... I'll can think is that the git call is failing because the network hasn't been initialized or something?",Mark,100
+"no need to traverse, I only need to check the parent if this will affect the computed style, hence the computer style is enough for me...
+
+thanks for your answer, it helped a lot,
+here is the code I finally used:
+
+function IsVisible(elem)
+{
+    if (elem.currentStyle) // ie only
+    {
+        return elem.currentStyle[""display""] != 'none';
+    }
+    else
+    {
+        // jquery way for computing isvisible.
+        return (elem.offsetWidth > 0 || elem.offsetHeight > 0);
+    }
+}
+
+however, I need to do more testing to see whether ""||"" is enough or do I need to have ""&&"" instead..",Haytham,100
+Lifesaver! User error on my part. My doTagXhr function had an overlap with tag name variables and it was picking up the contents of another html item. Thank you very much!!,Darrell,100
+"This plots two lines in the same figure, scaled with respect to different x axes. I'm trying to plot one line, scaled with respect to the lower x axis, while the upper x axis is just to indicate that same line in different units. I'll add an example to my question, which is very similar to what I need to do---variance on the bottom, mass on the top, where variance(mass) and vice versa. Thanks again.",Kyle,100
+It turns out I just needed to put the putExtra(...) calls before creating the PendingIntent.  Thanks for your help!,ivcheto,100
+"Thanks for all your comments Otto.  I had to resort to re-installing Firefox.  A little annoying that deleting my session cookies wasn't fixing the problem, since that's almost definitely why the error was being thrown.",joecorcoran,100
+"And also, I dont know why..if I take the ""grg.content"" out of the select, it seems to function as I want it too..",footose,100
+"Thanks Hans, VBA is also an option available to me. I will try the code in the next day or so and report back.
+
+What search and replace add-ins do you use David?",Ben,100
+"Scrub previous comment. I had not replaced one of the ""/t"" pieces of code. However, I now have another problem! The telephone numbers are being converted to scientific notation! For example, a telephone number now reads 4.876534E+11.",TheTub,100
+"it now exits to GDB at the last line with no message as to why, compiles with no warnings however. If i hit continue at that line i get 'EXC_BAD_ACCESS' which I think is related to memory management. Any further thoughts? BTW I do check that my var typeEncoding = ""f"" before doing this so it cant be due to mismatch of variables/memory allocation etc. at least I dont think so.",Russel West,100
+"That would work if I were redirecting to a new url, however it's the new site taking over the old url and the old site going to a different url. Putting a 301 moved permanently wouldn't work in this situation.",Jose Boveda,100
+"Hello Tony
+Thanks a lot for you answer - but it don't help me. You post the code from flash to create the normal preloader. But I need the sources for Flex to change the standart Flex preloader. I extends IPreloaderDisplay class and now I can't load image from web.
+
+best
+Vladimir",Vladimir,100
+i have sent one example to do this,sona,100
+"The thing is, at times, not all connections aren't refused. Some nodes manage to connect whilst others are turned down. If no nodes could connect to that node, the problem could be related to the node blocking connections itself. Could there be any other reason for this exception to be thrown?",thodinc,100
+Important: even though .NET 3.5 SP1 installed the ASP.NET runtime version reported in IIS is .NET 2.0.50727,Ferry Meidianto,100
+"+1 Very simple and precise explanation.
+Although some setups do not place their config files in /etc but they do so in home directory only. Depends highly on the specific kind of application.",Elitecoder,100
+The server and client are both windows computers so it doesn't appear that it would be the endianness.,Jeff,100
+"I don't want specifically it, it should create a simple shape(it's a symbole e.g AND Gate) and control it.",meysam_pro,100
+"That's still URL request, and I specifically need POST example.",Michael Feinstein,100
+"Thanks. Ok...this is closer, but the problem is that the second axis is effectively a new plot just overlaid on the first. My top axis needs to know about the bottom axis so that the relationship between the two is correct. In my example plot the relationship between M and sigma may be complicated, so you couldn't just have the ticks on both linearly divided between their min and max. There may not be an easy way to do this automatically in matplotlib (though I'm told there is in IDL...).",Kyle,100
+Thanks that sounds like the approach.,user280760,100
+"Dave,
+
+Amazing - who'd thunk that the command would look like a password utility ...
+
+Thanks!
+Loren",Loren Charnley,100
+Thanks! I have no idea why I didnt' try that in the first place. Cheers.,footose,100
+Tried the code yesterday and it worked great. Thanks.,Ben,100
+Before anyone asks - the field in mySQL is set as varchar(50). Most of the telephone numbers are coming over OK. It seems that those over a certain length are being converted.,TheTub,100
+"That doesnt work because you had a typo, if you change (void)&myFloatValue to (void *)&myFloatValue it works as advertised.",Russel West,100
+"**edit:** Thanks for the responses so far! While @seth's solution would work, looking for an apache-specific solution. 
+
+The issue is we have OldSite, which is currently at www.example.com and moving to old.example.com, and NewSite which is going to go on www.example.com. Now I want anything that isn't on the new site (say www.example.com/oldpage.html) to go to old.example.com. The solution seems to be to have any pages not on the new www.example.com 302 to old.example.com, then have pages in neither return 404. We don't know what pages these will be in the application since it's CMS driven.",Jose Boveda,100
+Oh - thanks I understand. The thing was to set text_txt.cacheAsBitmap = true;,Vladimir,100
+"hi...
+Actualy in my table im having 3 rows..of that 1st column is a textbox ,so i can edit all the three rows before save button click... the link that you send is only for editing one row at a time... thanks for your time... i fixed this by using two sessions...",sona,100
+"When you set up a ServerSocket in Java, you can specify the maximum queue length for incoming connection requests. Any more incoming connections are rejected.
+
+However, setting a backlog of even 30 didn't help. Many nodes are still partially refusing connections.",thodinc,100
+"No IsPostBack Property, it's AutoPostBack",Ferry Meidianto,100
+"Umm, I just wrote you a code which would work for | as well.
+Try that.",Elitecoder,100
+Question edited.  The two test strings do not return what I said in the question an do in fact return different results.  That was my error.,Jeff,100
+"yes , im using System.Drawing & WinForms",meysam_pro,100
+"I definitely *have* run it on an Intel processor. I don't know whether dotnetpad runs on an Intel processor, though.",Gobiner,100
+"Thanks, Nils. That was exactly it. I had indeed created the texture slammed to the lower left, cuz I thought the origin was there. I also discovered that the origin being in the top left required that I make use of a negative height in order to flip the image vertically.",bfalling,100
+You have to be careful if line endings can appear inside the tag,user280760,100
+"Thanks Otto, I had a feeling it'd be something to do with old cookies.  The thing is though, I'm pretty sure I've deleted all the cookies for this application (the machine has been turned off more than once, which would have cleared sessions, right?).  Is there some specific step I'm missing out?",joecorcoran,100
+"Why would TFS download all the files for the project everytime you build? It doesn't. If you do a ""Get Latest"" on the project, and force it, then it will get the files. The build will always be local.",footose,100
+"I dont think i made myself clear, I want to rename the reference to the table inside the query. Not the table itself?
+
+Will check the link out now.
+
+Thanks
+Ben",Ben,100
+This worked first time. Many thanks. Looks like everyone else suggested similar things too.,TheTub,100
+Jacob got it to work using object_getInstanceVariable but I'm still curious about how to get object_getIvar to work because it is apparently faster ( http://developer.apple.com/documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html#//apple_ref/c/func/object_getIvar ) Tried searching the net for examples using it but nobody seems to use it with basic types.,Russel West,100
+"Break Point got hit!  Man, I was completely lost.  Thanks so much, may you one day find your special breakpoint and settle down.",Alfonsol,100
+Using the same pipe with standard error works. Thanks!,Struddie,100
+"thank you  Michael...
+This link was very helpful...",sona,100
+"If I print out the stack trace, it shows:
+java.net.ConnectException: Connection refused
+   at gnu.java.net.PlainSocketImpl.connect(libgcj.so.8rh)
+   at java.net.Socket.connect(libgcj.so.8rh)
+   at java.net.Socket.connect(libgcj.so.8rh)
+   at java.net.Socket.<init>(libgcj.so.8rh)
+   at java.net.Socket.<init>(libgcj.so.8rh)",thodinc,100
+"e.g: 
+Select Lunch_Intime, 
+       Lunch_Outtime, 
+       CDate(Lunch_Outtime) - CDate(Lunch_Intime) as Total_Lunch_Time 
+    from table",Ferry Meidianto,100
+"Wrote another code that would work for ""!""
+I hope it helps.",Elitecoder,100
+"I think you are right that something is either missing or incorrect in the calc_crc algorithm.  I am in conact with the vendor right now trying to sort out.  I'm thinking the crc should be 470f for the string XYZ, but calc_crc has something wrong with it.",Jeff,100
+"i implement the Layers logic with list of objects.
+please , describe about Layers that you say.give me an example or link.",meysam_pro,100
+Good answer. I wouldn't call it a bug either. More of an unusual (and definitely unexpected) side effect.,Gobiner,100
+I do have control over the form and tried a mix of both ID's and classes when styling; neither worked. (Made it as specific as possible with no luck.),pixi,100
+Sorry - new here and I had to go and answer some questions to earn points before I could vote for yours???,user280760,100
+"Also, is it okay that the :session_key and :secret are being set both in environment.rb and application.rb?  Is this causing confusion perhaps?  I just made sure my cookies are deleted and I'm still getting the same error.  Weird.",joecorcoran,100
+"This is the method I used, even though both methods would work.
+
+Thanks.",footose,100
+yes that is correct. The lastest version of Speed Ferret only supports up to access 2002.,Ben,100
+This did the trick. Knew it would be simple. Thanks for your help.,TheTub,100
+"Any ideas for object_setInstanceVariable for a float? I can get it to work for an int via
+int myInt = 5;
+int theInt;
+object_setInstanceVairable(self, ""theInt"", (void*)myInt);
+because pointers and ints are the same size, so it doesnt work for floats.",Russel West,100
+"Thanks, that was very helpful.",Alfonsol,100
+"No, debea is not using wxODBC, it provides it's own driver based directly on ODBC API for MS Windows and libiodbc for unix. It will not deprecate with upcoming wxWidgets 3.0.",Lukasz,100
+"i have given the program above...
+check the previous answer...
+we can edit the gridview with the help of sessions",sona,100
+"As far as I know, when I declare a new ServerSocket with only a port specified, it listens to all interfaces. Additionally, running
+netstat -an | grep LISTEN | grep tcp
+shows me the same:
+tcp 0 0 0.0.0.0:61694 0.0.0.0:* LISTEN
+
+I still haven't been able to deduce why some connections are refused whereas others aren't. It can't be a firewall that's the problem in this case nor would any connections be accepted if a service wasn't running on the port. Could it be possible that my implementation of Sockets and ServerSockets isn't allowing for too many connections? Thanks.",thodinc,100
+any suggestions would be appreciated,Ferry Meidianto,100
+Great solution! thanks!,Alfredo Fernández,100
+"Also, Thanks for verifying for me that XYZ does produce dd7a.  At least I know I got that part right.",Jeff,100
+This would probably work but I need to use things like YUI's auto-complete that references a specific field by name. Changing all that would take too much time.,eli,100
+"OK that's fair enough. Thanks for your input.
+
+How would I raise an event in the one view model that is then handled in the other? Does the bubbling of events / eventhandlers take care of this?
+
+Sorry if this is a basic question!",Jmsparing,100
+"I ended up using straight <a> links with a JS handler to submit onClick... it may not work in the final release, but it's a good temp fix. Thanks! (Fingers crossed that Apple fixes that bug soon.)",pixi,100
+Thanks that was where I was going wrong. I though a signal was more Qt-ish than just a global getApp::redraw(),user280760,100
+"Thanks, Chirantan, I'll give this a go tonight.  It seems odd that I should have to make a change to the site to make it work on my home machine though!  I'm pretty sure that Rails's form helpers include the necessary authenticity_token by default, right?",joecorcoran,100
+"thanks, that worked.",footose,100
+"I already have all the code in place to add the tables, the problem is moving the cursor outside of the table once it has been constructed. I want each table to be separate, not nested",Ben,100
+"Hi Ross, thanks for your answer. What I'm missing is how to prove this algo will give the ""optimal"" partition, the one with the property that the partition minimizes the maximum sum of a pair.",John,100
+"it does indeed work :) thanks! Could please explain why you need *(float**)? I understand that (float**) is casting addr as a pointer to a pointer to which you then dereference. But since addr holds the address of newValue, isnt addr just like a pointer, hence you only need to cast it as float* and dereference that? That doesnt work but I dont understand why. What am I missing?",Russel West,100
+"This partially solved the problem. Now the problem seems to be that he can't find ""s1"", ""s2""... and so on, since they are on the main XAML. But great help anyway!",Bruno Schweller,100
+Thanks for the answer. I'm don't really think that its papervision. In your sample the flash earth looks little rought,Vladimir,100
+i am using IIS 5.1,sona,100
+"while(running) {
+                    Socket incoming = rcvlistener.accept();
+                    new ConnectionHandler(incoming);
+                }
+
+That's certainly possible, but the ConnectionHandler class is starting a new thread to handle the incoming connection and then the while loop goes back to waiting for a new connection. I could try manually increasing the backlog of the ServerSocket to see if that makes a difference.",thodinc,100
+Thank you for your answer.,guitarpoet,100
+"The model is not changing, and the controllers arer'nt neither, what changes is the views only.",Alfredo Fernández,100
+"The particular site feature that would have required creating new membership users ended up getting canceled. The response from Ektron didn't arrive in time to make a difference - by then, we had already gone a different direction.",jmcdowell,100
+"Yes, you are right. Click event fire, but it with wrong url, link not substitute.
+With hard-coded url it works good.
+
+This code works great:
+<mx:Text id=""title"" width=""100%"" fontWeight=""bold"" text=""{data.GetTitle()}""/>",RollingStone,100
+"Thanks for your comment. Yeah I'd never thought of that! Funny how you can spend hours looking down one route and miss something else entirely.
+
+Thanks again!",Jmsparing,100
+"Thanks for the suggestion, but unfortunately it's the same bug; see the question #3430506 linked above.",pixi,100
+That's what I am doing - but it's easy to miss one. I wondered if there was some 'magic' c++ initialization trick I didn't know about to do this automatically.,user280760,100
+"Is that a general comment, or is there something obvious and silly that I wrote into the script?",Loren Charnley,100
+"actually, Now I'm getting an error saying ""Error Preverifying class"" - but I'm on the right track I think now. Cheers.",footose,100
+"Underneath the previous table. I open a new word document, and then start adding tables. I would just like them to be one under the other.",Ben,100
+makes sense now. Thanks you all for your help.,John,100
+"yup that works, didnt know about valueForKey:, though I'm still interested why the getInstanceVariable didnt work.",Russel West,100
+That will solve the problem of removing the children. That was nice! But I still need to control the Child's Storyboard using the main XAML. How can I achieve that? Thanks for the great help!,Bruno Schweller,100
+I'm don't think that in the sample they do that way,Vladimir,100
+yes even i felt the same.So i reinstalled VS 2003.but even after i am getting the same error,sona,100
+"I used a backlog size of 10 and it doesn't really seem to make any difference. I'm still getting a lot of ""Connection refused"" messages, unfortunately.",thodinc,100
+"Tips: Don't forget, null value from database is represented as DBNull.Value by ADO.NET. Make sure to use DBNull.Value to communicate with DB instead of null of Nullable<T>.",Ferry Meidianto,100
+"My hosting says that the propmt is shown with basi checked or not.
+And i uploaded a very basic mvc application with authentification and the prompt is not prompted.",Alfredo Fernández,100
+"No, I just want to encrypt messages with a python library (m2crypt) instead of the js library.And I want to use the key but as you can see, the rsa key I found is not same as a ssh public key file.",sid3k,100
+"No, I haven't.      _",RollingStone,100
+These classes encapsulate state-full objects and provide mutators on them. There exists no client simply because this project is a simulation experiment. Apart from initial initialization of the simulation variables nothing else changes in the programs parameters after that. It just runs to completion and produces results. The 8 classes represent objects with discrete responsibilities that must work together to produce something like the main routine in a serial program written in C in order for the simulation to function.,imoschak,100
+"ah thats sad ,thanks for info sir :)",appleDE,100
+Thanks - looks like this was just a dumb thing to do in C++,user280760,100
+"I would go for 'Tomalak' solution because of the clean/template solution but you were always the first :D
+
+Truly a life saver since I was banging my head to the wall all afternoon. Much appreciated.",Carlos Sobrinho,100
+"I'm not sure how the manual preverification works, but I will check it out today and get back to you.",footose,100
+"""x has out attribute and hasn't been set yet at the end of method""",k0dek0mmand0,100
+Yes. Intel assembly = x86,DavidH,100
+So thats why! I wasted an hour trying to figure out what was going on! Good explanation too.,Russel West,100
+"Well, my problem is I want to have an application that moves as smoothly as it could. I would like, if possible, all the transitions work animated. Can you imagine some way to do it? I'm from a flash background, where that was an easy task to accomplish :(",Bruno Schweller,100
+"yes.. your assumption is correct, I can't change my 3 backend systems :(",Jason,100
+i am working in VB 6.5,sona,100
+Good answer Bryan.  I actually knew the answer... but asking a question seemed like the only way I could start getting points on the StackOverflow system.  Great explanation!,Wil Bloodworth,100
+Thanks for the help but I have also copied and renamed the web.config file to bin directory and this is how appsettings section started to work for me. But I am not able to access the configSections.,araaku,100
+"like i said to rick:
+
+My hosting says that the propmt is shown with basic checked or not.
+And i uploaded a very basic mvc application with authentification and the prompt is not prompted.",Alfredo Fernández,100
+"I already tried desktop.el (as I said 4 times), it does not support saving sessions by names.",sid3k,100
+I really think that adding a map API would be the best option. http://econym.org.uk/gmap/ might be helpful.,eli,100
+"There are middle initials on some of them.  I forgot to mention that!
+
+It looks like the names are formatted Last First Middle.",tylerdavis,100
+can u please tell me how to handle https (ssl or xx ) certificates ?,appleDE,100
+Perfect. This solves the problem.,Smidstrup,100
+The best of both worlds. The solution and the templates.,Carlos Sobrinho,100
+"I can compile no problem if there is only one project tho, this only happens if I have two.",footose,100
+That's exactly the thing I wanted to avoid doing. :),k0dek0mmand0,100
